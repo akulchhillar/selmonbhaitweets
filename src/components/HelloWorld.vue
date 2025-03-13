@@ -26,7 +26,7 @@
     <div class="mx-auto  py-8 sm:py-12 lg:py-14">
   
 
-      <div class="sm:mb-8 flex justify-center">
+      <div class="sm:mb-8 flex justify-center items-center">
         <h1 class="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl">The only advice you need!</h1>
   
       </div>
