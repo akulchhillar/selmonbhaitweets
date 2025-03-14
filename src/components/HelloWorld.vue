@@ -27,7 +27,7 @@
   
 
       <div class="sm:mb-8 flex justify-center items-center">
-        <h1 class="text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-7xl">The only advice you need!</h1>
+        <h1 class="text-5xl font-semibold tracking-tight text-balance text-gray-700 sm:text-7xl">The only advice you need!</h1>
   
       </div>
 
